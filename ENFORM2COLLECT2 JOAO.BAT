@@ -1,0 +1,2 @@
+java -jar M2C-1.0-SNAPSHOT-jar-with-dependencies.jar "ENFORM_708_MERGE11&12JOAO.xlsx" "E-I - M2C - Collecte de donnees par Composant - v1.11JOAO.xlsm" "Version_11" "version 11 mapping table.xlsx" > b.log
+pause
